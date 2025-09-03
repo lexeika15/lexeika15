@@ -44,8 +44,5 @@
 
 ---
 
-<!-- Animated snake with commits -->
-![snake gif](https://github.com/lexeika15/lexeika15/blob/output/github-contribution-grid-snake.svg)
-
 <!-- Footer -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer)
